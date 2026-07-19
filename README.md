@@ -61,7 +61,8 @@ The dataset contains:
 - Z_CostContact: A constant cost associated with contacting a customer.
 - Z_Revenue: A constant revenue associated with a successful campaign response.
 - Response: Binary indicator (1 or 0) whether the individual responded to the marketing campaign.
-For RFM analysis, the features used: Recency, Total spending (Sum of MntWines, MntFruits, MntMeatProducts, MntFishProducts, MntSweetProducts and MntGoldProds) and Frequency (Sum of NumDealsPurchases, NumWebPurchases, NumCatalogPurchases and NumStorePurchases)
+**
+For RFM analysis, the features used: Recency, Total spending (Sum of MntWines, MntFruits, MntMeatProducts, MntFishProducts, MntSweetProducts and MntGoldProds) and Frequency (Sum of NumDealsPurchases, NumWebPurchases, NumCatalogPurchases and NumStorePurchases)**
 ---
 
 ## Customer Segments
