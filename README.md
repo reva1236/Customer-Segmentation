@@ -75,10 +75,10 @@ The dataset contains:
 
 ## Customer Segments
 
-VIP Customers - High spending and frequent buyers
-Loyal Customers - High spending moderately repeat customers 
-Average Customers - Moderate purchasing behaviour 
-Inactive Customers - Low spending and infrequent purchases 
+- VIP Customers - High spending and frequent buyers
+- Loyal Customers - High spending moderately repeat customers
+- Average Customers - Moderate purchasing behaviour
+- Inactive Customers - Low spending and infrequent purchases 
 
 ---
 
