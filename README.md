@@ -29,7 +29,11 @@ This project segments customers based on purchasing behaviour using the K-Means 
 ---
 
 ## Dataset
+This project uses the **Customer Segmentation : Clustering** dataset from Kaggle.
 
+**Source:** https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis](https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering
+
+Customer Personality Analysis involves a thorough examination of a company's optimal customer profiles. This analysis facilitates a deeper understanding of customers, enabling businesses to tailor products to meet the distinct needs, behaviors, and concerns of various customer types.
 The dataset contains:
 
 - Id: Unique identifier for each individual in the dataset.
