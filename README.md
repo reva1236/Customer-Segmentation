@@ -1,1 +1,1 @@
-# Custormer Segmentation
+# Customer Segmentation
